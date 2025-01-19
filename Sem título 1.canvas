@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"18791a312fb09efa","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"criando um modelo de teste "}
+	],
+	"edges":[]
+}
