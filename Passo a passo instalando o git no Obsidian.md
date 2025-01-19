@@ -25,6 +25,7 @@ Qualquer erro me avisa
 
 e pra finalizar vai abrir um bloco de notas salvar com o nome .gitignore
 adicionar o conteudo:
+
 .obsidian
 .trash/
 .DS_Store
