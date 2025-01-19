@@ -23,7 +23,12 @@ lista-codigo-github
 Agora vamos baixando o git
 https://git-scm.com/downloads
 
-depois de instalar, vamos ate a pasta Obsidian Vault  dentro de meus documentos e cliacar com botão direito na pasta irá abrir Open  Git Bash here.
+depois de instalar, vamos ate a pasta Obsidian Vault  dentro de meus documentos e clicar com botão direito na pasta irá abrir Open  Git Bash here.
+use esses comandos aqui primeiro:
+
+git config user.name "seu-usuario" 
+git config user.email "seu-email@exemplo.com"
+
 agora basta copiar os comandos descritos no github.
 
 Qualquer erro me avisa
