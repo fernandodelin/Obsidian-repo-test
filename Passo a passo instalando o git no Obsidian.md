@@ -28,9 +28,11 @@ depois de instalar, vamos ate a pasta Obsidian Vault  dentro de meus documentos 
 use esses comandos aqui primeiro:
 
 Seu usuario do Github
+
 git config user.name "seu-usuario" 
 
 Seu email do Github
+
 git config user.email "seu-email@exemplo.com"
 
 agora basta copiar os comandos descritos no github "create a new repository on the command line". Você pode ignorar a primeira linha de comando. e começar pelo git init
