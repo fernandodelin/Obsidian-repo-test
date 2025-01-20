@@ -1,7 +1,7 @@
 
 Abaixo segue um print da tela:
 
-![[trabalhando-com-git.png]]
+![trabalhando-com-git.png](./trabalhando-com-git.png)
 
 Ao lado direito da janela vai ficar este menu onde iremos atualizar nosso repositório.
 

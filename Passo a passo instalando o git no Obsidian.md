@@ -6,7 +6,7 @@
 
 A imagem abaixo demonstra o menu aberto em configurações e o plugin instalado.
 imagem-obsidian
-![[imagem-obsidian.png]]
+![imagem-obsidian.png](./imagem-obsidian.png)
 
 ## O programa vai criar uma pasta no seus Documentos chamado obsidian Vault.
 
@@ -14,12 +14,12 @@ imagem-obsidian
 Após a criação da conta e já estamos na pagina inicial vai ter uma aba de repositórios, onde tem um botão azul new, para criar novo.
 
 profile-github
-![[profile-github.png]]
+![profile-github.png](./profile-github.png)
 
 após criar, vai aparecer uma tela seguinte, momento muito importante não fechar a janela iremos precisar dos comandos "create a new repository on the command line", posteriormente. 
 
 lista-codigo-github
-![[lista-codigos-github.png]]
+![lista-codigos-github.png](./lista-codigos-github.png)
 
 Agora vamos baixando o git
 https://git-scm.com/downloads
