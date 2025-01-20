@@ -27,19 +27,23 @@ https://git-scm.com/downloads
 depois de instalar, vamos ate a pasta Obsidian Vault  dentro de meus documentos e clicar com botão direito na pasta irá abrir Open  Git Bash here.
 use esses comandos aqui primeiro:
 
+Seu usuario do Github
 git config user.name "seu-usuario" 
 
+Seu email do Github
 git config user.email "seu-email@exemplo.com"
 
 agora basta copiar os comandos descritos no github "create a new repository on the command line". Você pode ignorar a primeira linha de comando. e começar pelo git init
-
-Qualquer erro me avisa
+a primeira linha de comando está criando uma documento que seria uma apresentação do repositorio, nele você acrescentar o conteudo descritivo sobre o que se trata o repo.
+O chatgpt te ajudar nessa edição se for o caso
 
 e pra finalizar vai abrir um bloco de notas salvar com o nome ".gitignore"
 adicionar o conteúdo:
 
 .obsidian
+
 .trash/
+
 .DS_Store
 
 isso é um documento que o github ira ignorar e não vai subir, são documentos e arquivos locais que você não desejar subir para o repo é só add na lista.
